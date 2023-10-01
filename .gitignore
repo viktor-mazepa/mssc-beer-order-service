@@ -69,7 +69,6 @@ local.properties
 ######################
 /log/
 */target/**
-target/**
 ######################
 # Gradle
 ######################
@@ -141,3 +140,6 @@ Desktop.ini
 .eslintcache
 /.idea/
 
+
+# Project exclude paths
+/target/
